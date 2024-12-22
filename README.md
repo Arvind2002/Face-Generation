@@ -62,17 +62,5 @@ The following table shows the performance of the GAN at different epochs.
 | 40    | 2.6479         | 0.4776              | 0.8646     | 0.2552     |
 
 These results show the progress of the GAN model in generating realistic facial images over the epochs.
-
-## Future Work
-The current GAN model is capable of generating new faces but does not yet generate images based on text prompts. Further work is required to extend the model to accept image details as input and generate new images accordingly.
-
-## References
-- Sun, Jianxin, et al. “Multi-caption text-to-face synthesis: Dataset and algorithm.” Proceedings of the 29th ACM International Conference on Multimedia, 2021.
-- Xia, Weihao, et al. “Tedigan: Text-guided diverse face image generation and manipulation.” Proceedings of the IEEE/CVF conference on computer vision and pattern recognition, 2021.
-- Sun, Jianxin, et al. “Anyface: Free-style text-to-face synthesis and manipulation.” Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2022.
-
-## How to Run
-1. Clone the repository to your local machine:
-   ```bash
-   git clone https://github.com/your-username/face-generation-gan.git
+<img width="758" alt="Screenshot 2024-12-22 at 1 54 10 PM" src="https://github.com/user-attachments/assets/45eeefe8-fa41-4758-b7c8-e188b16dc0f3" />
 
